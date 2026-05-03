@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./ai1net.png" alt="AI1NET Logo" width="120" />
+<img src="./ai1netlogo.png" alt="AI1NET Logo" width="230" />
 
 ### One Network. All AI.
 
