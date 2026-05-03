@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff00cc&height=200&section=header&text=AI1NET&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
-
 <div align="center">
 
-<img src="./ai1netlogo.png" alt="AI1NET Logo" width="230" />
+<img src="./Artboard.png" alt="AI1NET Logo" width="850" />
 
 ### One Network. All AI.
 
